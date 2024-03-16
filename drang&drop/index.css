@@ -22,6 +22,9 @@ justify-content: space-around;
     border: 1px solid black;
     width: 100px;
 }
+.listTasks{
+    padding: 40px;
+}
 
 .cardTask{
     background-color: yellow;
